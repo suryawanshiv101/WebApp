@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>About Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>This is about Page</h1>
-<a href="Check.jsp">Check</a>
+<h1>Checking its demo</h1>
 </body>
 </html>
